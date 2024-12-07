@@ -215,7 +215,7 @@ bash
 
 Copy code
 
-```gitbash git clone https://github.com/your-username/student-management-system.git
+```gitbash git clone https://github.com/sugeng-riyanto/Simple-Students-managament-System-using-flask-python.git
 cd student-management-system
 ``` 
 

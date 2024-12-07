@@ -317,4 +317,4 @@ To explore more about Python and Flask:
 If you have questions or need help:
 
 -   **Email**: srphysics04@gmail.com
--   **GitHub**: https://github.com/sugeng-riyanto/ 
+-   **GitHub**: https://github.com/sugeng-riyanto/Simple-Students-managament-System-using-flask-python.git

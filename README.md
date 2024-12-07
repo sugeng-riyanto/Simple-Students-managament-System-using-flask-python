@@ -114,7 +114,6 @@ Key Flask concepts in this project:
 
 Here’s an overview of the project files and folders:
 
-php
 
 Copy code
 

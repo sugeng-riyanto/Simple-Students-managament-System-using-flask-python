@@ -108,9 +108,11 @@ Key Flask concepts in this project:
 
 ----------
 
-## **Project Structure**
+## **Output**
 
 ![Result](https://github.com/sugeng-riyanto/Simple-Students-managament-System-using-flask-python/blob/main/Student%20Management%20System.png)
+
+## **Project Structure**
 
 Here’s an overview of the project files and folders:
 

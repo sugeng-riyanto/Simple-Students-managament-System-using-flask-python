@@ -110,6 +110,7 @@ Key Flask concepts in this project:
 
 ## **Project Structure**
 
+![enter image description here](https://tinyurl.com/2cl9n94u)
 Here’s an overview of the project files and folders:
 
 php
@@ -317,4 +318,4 @@ To explore more about Python and Flask:
 If you have questions or need help:
 
 -   **Email**: srphysics04@gmail.com
--   **GitHub**: https://github.com/sugeng-riyanto/Simple-Students-managament-System-using-flask-python.git
+-   **GitHub**: https://github.com/sugeng-riyanto/ 

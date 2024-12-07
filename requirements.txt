@@ -1,0 +1,4 @@
+Flask==2.3.2  # Flask web framework for building the application
+Jinja2==3.1.2 # Template engine used by Flask
+Werkzeug==2.3.2 # Utility library for WSGI applications (used by Flask)
+sqlite3==2.6.0 # SQLite database module (optional for compatibility with some setups)

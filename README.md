@@ -110,7 +110,8 @@ Key Flask concepts in this project:
 
 ## **Project Structure**
 
-![enter image description here](https://tinyurl.com/2cl9n94u)
+![Result](https://www.awesomescreenshot.com/image/51937693?key=6a3e4d1e8639f7cf3da484f61f2ad7b0)
+
 Here’s an overview of the project files and folders:
 
 php
